@@ -1,0 +1,6 @@
+{
+  "name": "AstroVerse - Modern Astrology & Ephemeris Portal",
+  "description": "Comprehensive astrology platform with zodiac signs, daily horoscopes, real-time planetary ephemeris, birth charts, traditional astrology compendium, and email verification authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
